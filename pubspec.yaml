@@ -1,4 +1,4 @@
-name: lista_de_tarefas_2
+name: todo_list2
 description: A new Flutter project.
 
 # The following line prevents the package from being accidentally published to
@@ -34,7 +34,9 @@ dependencies:
   # The following adds the Cupertino Icons font to your application.
   # Use with the CupertinoIcons class for iOS style icons.
   cupertino_icons: ^1.0.2
-  path_provider: "^2.0.9"
+  intl:
+  flutter_slidable: ^0.6.0
+  shared_preferences: ^2.0.8
 
 dev_dependencies:
   flutter_test:

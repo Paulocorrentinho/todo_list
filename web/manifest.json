@@ -1,6 +1,6 @@
 {
-    "name": "lista_de_tarefas_2",
-    "short_name": "lista_de_tarefas_2",
+    "name": "todo_list2",
+    "short_name": "todo_list2",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
